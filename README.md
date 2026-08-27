@@ -1,5 +1,6 @@
-"Employee Attrition Analysis & Interactive Dashboard | Microsoft Excel "
-Overview 
+**Employee Attrition Analysis & Interactive Dashboard | Microsoft Excel ** 
+
+**Overview **
 
 An interactive HR analytics dashboard developed in Microsoft Excel to analyze employee attrition and identify patterns across key employee and organizational factors. 
 
