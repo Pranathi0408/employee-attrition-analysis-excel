@@ -8,6 +8,15 @@ An interactive HR analytics dashboard developed in Microsoft Excel to analyze em
 
 The objective of this project is to analyze employee attrition across different workforce dimensions and present the findings through an interactive dashboard that enables users to explore attrition patterns by department. 
 
+**Dataset**
+
+The dataset used for this project is the IBM HR Analytics Employee Attrition & Performance dataset. 
+
+Dataset Source: 
+https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset 
+
+Original Dataset: IBM HR Analytics Employee Attrition & Performance 
+
 **Data Preparation**
 
 The dataset was prepared for analysis by creating calculated and categorized fields, including: 
